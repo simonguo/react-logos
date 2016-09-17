@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Hypers = React.createClass({
+const GuruDigital = React.createClass({
     propTypes: {
         width: React.PropTypes.number,
         backgroundColor: React.PropTypes.string,
@@ -45,4 +45,4 @@ const Hypers = React.createClass({
     }
 });
 
-export default Hypers;
+export default GuruDigital;
