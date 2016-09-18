@@ -27,14 +27,5 @@ render((
             <GuruDigital  width={90} color="#fff" backgroundColor="#00b12b"  />
         </Item>
 
-        <Item title="Google">
-            <Google  width={180}  height={60}/>
-        </Item>
-
-        <Item title="Apple">
-            <Apple  width={90}  height={90} color="#999" />
-        </Item>
-
-
     </ul>
 ), document.getElementById('mount'));
